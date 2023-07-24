@@ -5,10 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-**Desktop-view**
+**Desktop-view**<br>
 <img src="https://github.com/hemanth110702/qr-code-challenge/assets/89832451/38d14b2f-4a3b-4d71-9064-5d6172ca8100" width="800" height="400" />
 
-**Mobile-view**
+**Mobile-view**<br>
 <img src="https://github.com/hemanth110702/qr-code-challenge/assets/89832451/ae57cbf8-7355-4251-9c6c-c9d1bd4671928" width="250" height="400" />
 
 
