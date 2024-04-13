@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshots
+## Screenshots
 
 <table>
     <tr>
@@ -40,12 +40,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     </tr>
 </table>
 
-### Links
+## Links
 
 - [Solution](https://github.com/hemanth110702/qr-code-challenge)
 - [Live Page](https://hemanth110702.github.io/qr-code-challenge/)
 
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
 ## My process
 
 ### Built with
@@ -54,17 +53,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Desktop-first workflow
 
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
-### What I learned
+## What I learned
 
 I have gained a better understanding of developing websites that are responsive and adapt effectively to various screen sizes. This knowledge has allowed me to optimize my development process and create designs that work seamlessly on different devices. Additionally, I have expanded my proficiency in CSS properties such as margin, flex, padding and box-shadow which have enabled me to implement more sophisticated and dynamic visual effects on my web pages.
 
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
-### Continued development
+## Continued development
 
 I am enthusiastic about expanding my knowledge in designing websites that effectively cater to different screen sizes. Specifically, I am determined to become proficient in utilizing the power of CSS flexbox and grid layouts to create responsive and visually appealing designs. Additionally, I am eager to explore the possibilities of enhancing interactivity and responsiveness by leveraging JavaScript. My goal is to master these techniques to deliver seamless and engaging user experiences across a wide range of devices and platforms.
 
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
 ## Author
 
 - Email - [mamidihemanthkumar2002@gmail.com](mailto:mamidihemanthkumar2002@gmail.com)
